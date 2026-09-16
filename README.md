@@ -40,6 +40,26 @@ This allows me to maintain my dividend records automatically while also giving m
 | ------- | ----- |
 |<img src="assets/telegram-bot.png" alt="Description" width="100%">  | <img src="assets/telegram-bot-error.png" alt="Description" width="100%">   |
 
+## Demo
+
+### Case 1: Successful Processing
+All required data is extracted and parsed correctly. 
+
+Adds a row in Tracker Sheet.
+
+![Case 1: Successful Processing](assets/demo-case-1.gif)
+### Case 2: Changed Email Format
+Detects missing data caused by a changed email format and triggers an error notification. 
+
+No changes to the Tracker Sheet.
+
+![Case 2: Changed Email Format](assets/demo-case-2.gif)
+### Case 3: Duplicate Email
+Detects and skips already processed emails. 
+
+No changes to the Tracker Sheet.
+
+![Case 3: Duplicate Email](assets/demo-case-3.gif)
 
 ## Tools Used
 
