@@ -30,7 +30,7 @@ This allows me to maintain my dividend records automatically while also giving m
 ![Dividend Email Tracker Worklow](assets/n8n-workflow.png)
 
 ### Tracker Sheet
-![Tracker Sheet](assets/Tracker-sheet.png)
+![Tracker Sheet](assets/tracker-sheet.png)
 
 ### Analytics Sheet
 ![Analytics Sheet](assets/analytics-sheet.png)
