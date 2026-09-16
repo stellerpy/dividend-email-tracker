@@ -23,11 +23,22 @@ This workflow automates the process by:
 
 This allows me to maintain my dividend records automatically while also giving me a visual overview of my dividend income.
 
-## Demo
+## Screenshots
 
-### Workflow
+### n8n Workflow
 
 ![Dividend Email Tracker Worklow](assets/n8n-workflow.png)
+
+### Tracker Sheet
+![Tracker Sheet](assets/Tracker-sheet.png)
+
+### Analytics Sheet
+![Analytics Sheet](assets/analytics-sheet.png)
+
+### Telegram Bot
+| ✅ Success Message  | ⚠️ Error Message |
+| ------- | ----- |
+|<img src="assets/telegram-bot.png" alt="Description" width="100%">  | <img src="assets/telegram-bot-error.png" alt="Description" width="100%">   |
 
 
 ## Tools Used
